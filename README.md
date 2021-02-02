@@ -31,5 +31,7 @@ To run the Bokeh application:
 python -m bokeh serve bokeh/app.py
 ```
 # Screenshots
+## Dash
 ![Screenshot](screenshots/Screenshot_Dash_ALMA2_Polar.png)
+## Bokeh
 ![Screenshot](screenshots/Screenshot_Bokeh_EVLA.png)
